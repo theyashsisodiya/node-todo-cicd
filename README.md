@@ -51,7 +51,7 @@ This project includes CI/CD pipelines implemented using Jenkins. The Jenkins job
 
 1. Install Jenkins on your server.
 
-2. Configure Jenkins with the necessary plugins, including Git and Docker.
+2. Configure Jenkins with the necessary plugins, including Github integration only.
 
 3. Create a new Jenkins job that pulls the latest changes from the repository and builds the Docker image.
 
@@ -59,7 +59,7 @@ This project includes CI/CD pipelines implemented using Jenkins. The Jenkins job
 
 ## Access the Deployed Application
 
-The deployed version of this application can be accessed at [http://51.20.68.144:8000/todo](http://51.20.68.144:8000/todo). Please note that the URL might change, so make sure to check the latest deployment URL.
+The deployed version on **AWS** of this application can be accessed at [http://51.20.68.144:8000/todo](http://51.20.68.144:8000/todo). Please note that the URL might change, so make sure to check the latest deployment URL.
 
 Feel free to explore the application and manage your todos!
 
