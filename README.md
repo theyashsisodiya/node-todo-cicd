@@ -1,5 +1,7 @@
 # Node Todo App with CI/CD
 
+![project](https://github.com/theyashsisodiya/node-todo-cicd/assets/97979728/65c5be9c-0d8d-443d-b0a9-fc6d452ec0a2)
+
 ## Overview
 
 This project is a simple Node.js todo application with continuous integration and continuous deployment (CI/CD) implemented using Jenkins. It also utilizes a webhook as a trigger for automation. The application allows you to manage your todos through a web interface.
