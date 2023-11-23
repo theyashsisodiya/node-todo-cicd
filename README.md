@@ -4,6 +4,13 @@
 
 This project is a simple Node.js todo application with continuous integration and continuous deployment (CI/CD) implemented using Jenkins. It also utilizes a webhook as a trigger for automation. The application allows you to manage your todos through a web interface.
 
+### Tools Used
+
+[![GitHub Logo](https://image-link-to-github-logo.png)](https://github.com/theyashsisodiya/node-todo-cicd)
+[![Jenkins Logo](https://image-link-to-jenkins-logo.png)](https://jenkins-url.com)
+[![Docker Logo](https://image-link-to-docker-logo.png)](https://docker-url.com)
+[![AWS Logo](https://image-link-to-aws-logo.png)](https://aws-url.com)
+
 ### Prerequisites
 
 Before you can run the application, ensure that you have Node.js and npm installed on your system. If not, you can install them using the following commands:
@@ -92,7 +99,7 @@ This project includes CI/CD pipelines implemented using Jenkins. The Jenkins job
 
 ### Access the Deployed Application
 
-The deployed version on AWS of this application can be accessed at (http://51.20.68.144:8000/todo). Please note that the URL might change, so make sure to check the latest deployment URL.
+The deployed version on AWS of this application can be accessed at [http://51.20.68.144:8000/todo](http://51.20.68.144:8000/todo). Please note that the URL might change, so make sure to check the latest deployment URL.
 
 Feel free to explore the application and manage your todos!
 
