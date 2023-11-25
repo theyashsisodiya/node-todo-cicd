@@ -98,6 +98,10 @@ The deployed version on AWS of this application can be accessed at [http://51.20
 
 Feel free to explore the application and manage your todos!
 
+### Architecture
+
+![Group](https://github.com/theyashsisodiya/node-todo-cicd/assets/97979728/31d4cc67-6c8a-4374-8eed-08e01f257a75)
+
 ### Contributing
 
 If you would like to contribute to this project, feel free to open issues or submit pull requests. Your feedback and contributions are highly appreciated.
