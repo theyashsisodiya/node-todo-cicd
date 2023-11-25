@@ -100,7 +100,7 @@ Feel free to explore the application and manage your todos!
 
 ### Architecture
 
-![Group](https://github.com/theyashsisodiya/node-todo-cicd/assets/97979728/31d4cc67-6c8a-4374-8eed-08e01f257a75)
+![Group](https://github.com/theyashsisodiya/node-todo-cicd/assets/97979728/b6773e63-8846-4075-87e6-cb5baaa00d9d)
 
 ### Contributing
 
