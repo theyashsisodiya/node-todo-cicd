@@ -1,5 +1,6 @@
-## Project under maintenance ( AWS instance IP changed)
-I will make it live soon 🥲 
+## Project under maintenance.
+
+I will make it live soon 🥲 (AWS Instance Fat gaya)
 
 
 
