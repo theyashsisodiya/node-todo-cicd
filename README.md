@@ -1,6 +1,5 @@
-## Project under maintenance.
-
-I will make it live soon 🥲 (AWS Instance Fat gaya)
+## Project Status: Under Maintenance (AWS Instance Issue)
+I am actively working to resolve the issue and plan to make the project live again soon.
 
 
 
