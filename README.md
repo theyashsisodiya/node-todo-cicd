@@ -1,5 +1,3 @@
-## Project Status: Under Maintenance (AWS Instance Issue)
-I am actively working to resolve the issue and plan to make the project live again soon.
 
 
 
@@ -99,7 +97,7 @@ This project includes CI/CD pipelines implemented using Jenkins. The Jenkins job
 
 ### Access the Deployed Application
 
-The deployed version on AWS of this application can be accessed at [http://51.20.68.144:8000/todo](http://51.20.68.144:8000/todo). Please note that the URL might change, so make sure to check the latest deployment URL.
+The deployed version on AWS of this application can be accessed at [http://3.109.104.174:8000/todo]. Please note that the URL might change, so make sure to check the latest deployment URL.
 
 Feel free to explore the application and manage your todos!
 
