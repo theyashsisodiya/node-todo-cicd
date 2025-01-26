@@ -97,7 +97,7 @@ This project includes CI/CD pipelines implemented using Jenkins. The Jenkins job
 
 ### Access the Deployed Application
 
-The deployed version on AWS of this application can be accessed at [[http://65.2.11.33:8000/todo](http://35.154.133.202:8080/)]. Please note that the URL might change, so make sure to check the latest deployment URL.
+The deployed version on AWS of this application can be accessed at [[http://13.232.132.74:8000]([http://35.154.133.202:8080/](http://13.232.132.74:8000))]. Please note that the URL might change, so make sure to check the latest deployment URL.
 
 Feel free to explore the application and manage your todos!
 
